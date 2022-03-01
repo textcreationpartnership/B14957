@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corante, or, nevves from Italy, Germanie, Hungarie, Poland, Bohemia and France. 1621</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14957</idno>
+            <idno type="STC">STC 18507.24</idno>
+            <idno type="STC">ESTC S119535</idno>
+            <idno type="EEBO-CITATION">99854742</idno>
+            <idno type="PROQUEST">99854742</idno>
+            <idno type="VID">177432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177432)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7k)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corante, or, nevves from Italy, Germanie, Hungarie, Poland, Bohemia and France. 1621</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Broer Ionson, corranter to his excellencie,</publisher>
+                  <pubPlace>Printed at Amstelredam :</pubPlace>
+                  <date>the 20. of Iuly [1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title. Publication date from STC.</note>
+                  <note>This coranto is a verbal translation of most of Jansz.'s Dutch for 10 July. Part not translated because "it was strictly forbidden to print any English home news in the corantos"--Cf. Dahl.</note>
+                  <note>Formerly STC 5747.</note>
+                  <note>Identified as STC 5747a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound and filmed with other issues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="news">
+            <pb facs="tcp:177432:1" rendition="simple:additions"/>
+            <head>CORANTE, OR, NEVVES FROM Italy, Germanie, Hungarie, Poland, Bohemia and France. 1621.</head>
+            <div type="entry">
+               <head>
+                  <hi>From Venice the</hi> 1. <hi>of Iuly</hi> 1621.</head>
+               <p>HEre the longer the more, preparation is made for warres.</p>
+               <p>There was a Commiſſion ſent to Naples, and from thence to be ſent to Millane, which is a bad token that Valtolina ſhall be reſtored.</p>
+               <p>It is written from Turnio, that the Duke thereof hath muſtred all his Horſe-men, and the greateſt part of his Foote-men at Miraflores, and hath ſent them to Cutri and Zenda, to what intent it is not knowne.</p>
+               <p>Letters from Genouo certifie that in the Sea by Cor<g ref="char:EOLhyphen"/>ſica: There are 8. Turkiſh Shippes that doe great hurt, and from Bergamo it is written, That the <hi>Prouediteur Contarini</hi> hath ſent men into Martinengo, whether moſt of the Commaunders, beſides 6000. Foot and 2000. Horſemen are already come, it is thought they will for<g ref="char:EOLhyphen"/>tifie Romano, or ſome other places vpon the frontiers.</p>
+               <p>To Millane there are 500. crownes come by Letters of Exchange, and there are 4. Companies of Souldiers ſent to Valtelnia.</p>
+               <p>The Duke of Sauoy hath committed the gouern<g ref="char:EOLhyphen"/>ment wholly to his ſonne, and onely reſerued the orde<g ref="char:EOLhyphen"/>ring of the warres vnto himſelfe.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Vianna the</hi> 29 <hi>of Iune</hi> 1621.</head>
+               <p>The 18. of this moneth, this Emperours Maieſtie with a great houſhold trayne rod to Sel, and in the morning betimes, before hee departed, the Denmarke Ambaſſadors tooke their leaues, and went from hence, but haue done nothing in the Palſgraues behalfe.</p>
+               <p>The Generall <hi>Bucquoy</hi> lyeth ſtill before Newheuſel, and makes ſtrong ſconces about it: Thoſe of Diepen<g ref="char:EOLhyphen"/>bach haue cut downe the Milles, and thoſe that are be<g ref="char:EOLhyphen"/>ſieged expect 8000. men to relieue them, they iſſue out dayly. <hi>Bethlem Gabor</hi> is yet at Caſcow, ſtaying for the Turkiſh helpe.</p>
+               <p>The Earle of Colalde is yet with his Army at Reg<g ref="char:EOLhyphen"/>nitz vpon the Budianers Country There is Hongarian helpe come vnto them, and thereby they encountred together, and fought, in which fight there are many on both ſides ſlaine, the certainety whereof is dayly ex<g ref="char:EOLhyphen"/>pected.</p>
+               <p>The 19. of this moneth, the Lord <hi>Helmhert Georg,</hi> was carried priſoner from hence, to the Duke of B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ua<g ref="char:EOLhyphen"/>ria, and there are alſo 9. perſons of good quality cho<g ref="char:EOLhyphen"/>ſen here out of 16. men to be examined, and are com<g ref="char:EOLhyphen"/>mitted priſoners.</p>
+               <p>The newes continueth, that the Marquis of Iagerſ<g ref="char:EOLhyphen"/>dorp hath the Princely Caſtle of Neuſz, and hath taken the three Princely Officers and the Counſell into his ſecurity, that there are men taken vp openly in Neuſz for <hi>Bethlem Gabor,</hi> and there is a thouſand Ritters, and 1000. Muskatieres already entertained, and that the Colonell <hi>Lohuyſen</hi> hath brought 30 thouſand Duckets from <hi>Bethlem</hi> to Neuſz, to take vp more Souldiers.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Vianna the</hi> 30 <hi>of Iune</hi> 1621.</head>
+               <p>From Comorra Letters of the 19. certifie, that <hi>Buc<g ref="char:EOLhyphen"/>quoy, Maximilian van Lichtenſteyn,</hi> and the Lord Die<g ref="char:EOLhyphen"/>penbach, with 40. Horſemen went out of the Campe before Newheuſel, and were by the Hongarians that lay in the Woods ſet vpon and encloſed on all ſides, ſo that none of them could eſcape away but hee was ta<g ref="char:EOLhyphen"/>ken, ſo that of them there is 18 of the principalleſt per<g ref="char:EOLhyphen"/>ſons ſlaine, and thoſe in Newheuſel doe great hurt vnto our ſide.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Prague the</hi> 29 <hi>of Iune</hi> 1620.</head>
+               <p>After the Emperours Commiſſioners had examined the priſoners here, this rigorous ſentence was pronoun<g ref="char:EOLhyphen"/>ced againſt them, and ſent vnto the Emperor.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>A Regiſter of the impriſoned Directors and others Sentence publiquely proclaimed in Prague the</hi> 19. <hi>of Iune,</hi> 1621.</head>
+               <p n="1">1.
+<note place="margin">Chiefe Landhoof Maſter.</note> 
+                  <hi>VVIlliam Poppel</hi> of Lobkowitz condemned to forfait life, honour, and goods, and to be beheaded, but by grace ſhewed him by the Emperour, he is condemned to perpetuall impriſonment.</p>
+               <p n="2">2 <hi>Paul Ritſchen</hi> condemned as before,
+<note place="margin">Chiefe Chancelor</note> but fauoured alſo as before.</p>
+               <p n="3">3 <hi>Ioachim Andreas Schlick</hi> condemned to haue his right hand cut off, to be quartered,
+<note place="margin">Burggraue of Carle<g ref="char:EOLhyphen"/>ſteyn.</note> and his quarters hanged in foure places in the Streetes, his head to be ſet vpon the Bridge Tower, but grace being ſhewed him, hee is to haue his right hand and his head cut off, and ſet vpon the Tower.</p>
+               <p n="4">4 <hi>Wentzel van Budowith</hi> condemned to haue his right hand, and his head to be cut off, and quartered, his quarters to hang in the Streetes, but grace being ſhewed him, he is to haue his head cut off, and ſet vpon the Tower, and his goods confiſcate.</p>
+               <p n="5">5 <hi>Chriſtopher Harrand</hi> condemned to loſe his life and goods, and to be beheaded.
+<note place="margin">Preſident of the Bo<g ref="char:EOLhyphen"/>hemian Chamber. Chiefe Se<g ref="char:EOLhyphen"/>cretary of the land. Vnder Chamber-<hi>r</hi> laine. Old Bur<g ref="char:EOLhyphen"/>graue of Carleſtone</note>
+               </p>
+               <p n="6">6 <hi>Caſoer Capler,</hi> a man of 80 yeeres old, condemned to loſe life and good, to haue his head cut off, and his body quartered, but grace being giuen him, hee muſt only haue his head cut off, and ſet vpon the Tower.</p>
+               <p n="7">7 <hi>Procop Dihowfetzky,</hi> condemned to loſe life and goods, to haue his head cut off, and ſet on the Tower.</p>
+               <p n="8">8 <hi>Bobuflaw Michalowitzſch,</hi> to forfait life &amp; goods, with the Sword to haue his head cut off, and his body quartered: but grace offered his head onely to be cut off, and ſet on the Tower.</p>
+               <p n="9">9 <hi>Frederick Buchlau,</hi> to haue his head cut off, his body quartered, and to be hanged in the Streetes, but grace offered him, he is to haue his head onely cut off, and ſet on the Tower, and his goods confiſcate.</p>
+               <p n="10">10 <hi>Otto van Loſs,</hi> quartered aliue, and his body han<g ref="char:EOLhyphen"/>ged vp, his head ſet on the Tower, but grace ſhewed, his head only is to be cut off, and ſet vpon the Tower, and his goods confiſcate.</p>
+               <p n="11">11 <hi>Hans Weſtrowetz,</hi> to bee executed with the Sword, and his goods confiſcate, but grace offered, hee is condemned to perpetuall impriſonment.</p>
+               <p n="12">12 <hi>Felix Wentzel, Pieto Petzſchky,</hi> body and goods loſt, to be beheaded, but grace offered, the execution is ſuſpended.</p>
+               <p n="13">13 <hi>Dioniſius Eſcherin, Caſtle Hoffman</hi> body and goods forfaited, his two firſt fingers and his head to be cut off, and caſt downe into the Caſtle ditch, but grace offered, his head ſhal be cut off, &amp; his goods confiſcate.</p>
+               <p n="14">14 <hi>Wolfgang Haſlawer</hi> ſent to Raab in the frontier houſe.</p>
+               <p n="15">15 <hi>Wilhelm Coningh Clunisby</hi> life and goods loſt, to haue his head cut off, but his wife ſhall haue the goods that ſhe brought reſtored vnto her.</p>
+               <p n="16">16 <hi>Valentin Cochan</hi> goods forfaited, his head cut off, and ſet on the Tower.</p>
+               <p n="17">17 <hi>Theodorus Sixts</hi> goods forfaited, but he is to re<g ref="char:EOLhyphen"/>maine in priſon.</p>
+               <p n="18">18 <hi>Tobias Steffegh,</hi> to haue his head cut off, and ſet on the Tower, his goods confiſcate.</p>
+               <p n="19">19 <hi>Chriſtoph Keber</hi> as aforeſaid.</p>
+               <p n="20">20 <hi>Iohan Schultheitz van Katenbergh,</hi> beheaded, and ſet vpon the Tower, his goods confiſcate.</p>
+               <p n="21">21 <hi>Maximiliaen Hoſhalig primas van Satz,</hi> as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <p n="22">22 <hi>Iohn Ieſſenius</hi> Doctor his tongue cut out, quar<g ref="char:EOLhyphen"/>tered aliue, but grace giuen him, he is firſt to haue his
+<pb facs="tcp:177432:2" rendition="simple:additions"/>tongue cut out, then his head cut off, and his body quartered, and the quarters hangd before the gallowes gate, and his head ſet vpon the Tower.</p>
+               <p n="23">23 <hi>George Hauenſchilt,</hi> beheaded, the right hand cut off, and both ſet vpon the Tower, his goods con<g ref="char:EOLhyphen"/>fiſcate.</p>
+               <p n="24">24 <hi>Leander Ruppel,</hi> as aforeſaid, but grace offered his head is pardoned, and his hand is to be naild in the counſell Houſe of the old Towne.</p>
+               <p n="25">25 <hi>Hans Kuttenaver,</hi> to be hangd by a cord out of the window in the counſell Houſe of the old Towne, his goods confiſcated.</p>
+               <p n="26">26 <hi>Simon Ruſzſchizky,</hi> as aforeſaid.</p>
+               <p n="27">27 <hi>Nathanael Wodinantzky,</hi> hangd on the gallowes, his goods confiſcate.</p>
+               <p n="28">28 <hi>George Sabiota,</hi> baniſhed for euer out of the land, but grace offered the execution is ſtayed and hee rem<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes priſoner.</p>
+               <p n="29">29 <hi>Melchior Tunprecht,</hi> baniſhed out of the land, but grace offered, he is to lye a yeare in Irons, and to be ſent to Raab.</p>
+               <p n="30">30 <hi>Wentzel Waſharky,</hi> his goods loſt, and his head cut off.</p>
+               <p n="31">31 <hi>Paul Pritzka,</hi> condemned to be priſoner a yeere.</p>
+               <p n="32">32 <hi>Nicholas Altzſtatter Raetſdiener,</hi> his tongue cut off, and naild vpon the gallowes, and after ſent to be kept in Irons at Raab, but grace offered, his tongue to be nailed vpon the gallowes, an houre long, and then to be ſent perpetuall priſoner to Raab.</p>
+               <p n="33">33 <hi>D Borbanus</hi> his goods forfeited, and his head cut off, but grace offered he continewes perpetuall priſoner.</p>
+               <p n="34">34 <hi>Gaſper Caſler,</hi> his goods loſt, he muſt be hangd out of the counſell Houſe in the new Towne, but vpon grace it is referred to a further time, and he muſt re<g ref="char:EOLhyphen"/>maine priſoner.</p>
+               <p n="35">35 <hi>Elias Roſſin</hi> the elder, his goods confiſcate, and his head to be cut off, but grace offered, he ſhall ſtand in perſon till further Commiſſion.</p>
+               <p n="36">36 <hi>Hendrich Bock,</hi> ſhall be hangd out at the coun<g ref="char:EOLhyphen"/>ſell Houſe in the new Towne, his goods confiſcate, but is ſtayed in perſon till further order taken.</p>
+               <p n="37">37 <hi>Lucas Carbam</hi> behead, his goods confiſcate.</p>
+               <p n="38">38 <hi>Elias Kalzaver</hi> beheaded, his goods confiſcate.</p>
+               <p n="39">39 <hi>Ioſeph Cubin.</hi> whipt &amp; baniſhed for euer.</p>
+               <p n="40">40 <hi>Hans Sirela</hi> and whipt &amp; baniſhed for euer.</p>
+               <p n="41">41 <hi>Nieen Heeren Dienaer</hi> whipt &amp; baniſhed for euer.</p>
+               <p n="42">42 <hi>George Setzitzky,</hi> beheaded, his goods con<g ref="char:EOLhyphen"/>fiſcate.</p>
+               <p n="43">43 <hi>Michael Wedman,</hi> as aforeſayd.</p>
+               <p n="44">44 <hi>Simon Wakatſch,</hi> as aforeſaid.</p>
+               <p n="45">45 <hi>Iohn Cammaret</hi> baniſhed a yeare out of the land.</p>
+               <p>The Lords, Princes, and States of Silecia hauing payd and diſcharged their Souldiers: The Marquis of <hi>Iagerſdorp</hi> hath entertained the moſt part of them in his ſeruice, he hath beſieged Neuſz and other Biſhops Townes as alſo the Earledome of Glatz, and after that entred into Behemia with tenne thouſand men, with whom alſo foure thouſand peaſants haue ioyned, vpon Coning-Greetzer Creitz: and now they are in Smir<g ref="char:EOLhyphen"/>ſisky borders; and hath already taken ſome Townes as Reiſenberch, Caſtlitz and others where the Colonel of S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xon, with his ſeuen company of Ritters, and the Valſtenie Souldiers are appointed to meete with the Margraue and to reſiſt him, whoſe Souldiers runne o<g ref="char:EOLhyphen"/>uer all the Countrie, and kill all they meet: whereupon it is feared that the Earle of Mansfield will ioine with the ſayd Marquis.</p>
+               <p>Colonel <hi>Frenck</hi> is ſuffered to enter into Tabor vpon condition, whereunto he is bound, to defend the ſame to the laſt man; and therefore <hi>Don Balthaſar</hi> doth lit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, hauing loſt a great many men before it already.</p>
+               <p>Heere there is great griefe a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſorrow made be<g ref="char:EOLhyphen"/>cauſe of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Execution, and ſixe women are al<g ref="char:EOLhyphen"/>ready dead of griefe, for their husbands Execution.</p>
+               <p>At Brin and Olmitz in Morauia; there ſhall alſo 20. principall perſons be execrated: to morrow the Scaffolds ſhalbe puld downe againe in the old Towne.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Welis the</hi> 2. <hi>of Iuly,</hi> 1621.</head>
+               <p>The Lord <hi>Helmhaert George,</hi> is brought into Lintz, where alſo other Lords are attached, and other lands Heren of the principaleſt perſons, are noted and ſet downe of what religion they are; for that vpon the 9. of Iuly: the feoffment of the whole Countrie, ouer the Eus ſhall be made to the Duke of Bauaria, whereupon there is nothing to be expected but a whole refor<g ref="char:EOLhyphen"/>mation.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Lintz the</hi> 2. <hi>of Iuly,</hi> 1621.</head>
+               <p>The 21. of this moneth, the Lord <hi>Eraſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nus</hi> of Star<g ref="char:EOLhyphen"/>renberch, as alſo the next day, after the former Laner. Hofman <hi>Sigiſmund,</hi> Lodowicke <hi>van Palheim,</hi> was brought priſoner, as alſo Heer <hi>Helmaert George,</hi> who is the richeſt Lord in theſe Countries, alſo brought priſoner hether; as alſo Heer <hi>Chriſtophel Bucher,</hi> and others alſo ſhall follow, and the Duke of Bauaria hath taken a note of the Emperiall Officers in the land, that vpon the 29. of this moneth, there ſhall be at his en<g ref="char:EOLhyphen"/>feoffment, vpon paine of 28000 Florins, and then hee will leaue this Countrie.</p>
+            </div>
+            <div type="entry">
+               <head>
+                  <hi>From Weidhuyſen the</hi> 9 <hi>of Iuly,</hi> 1621.</head>
+               <p>Here in the Villages bordering vpon the Bohemi<g ref="char:EOLhyphen"/>an frontiers the Earle of Mansfields armie is freely quartered: The enemy daily ſhewes himſelfe out of our ſconſes, that gaue many blind Alarums, vntill they fall to it earneſtly.</p>
+               <p>Yeſterday the Prince of Wiimaren with 1400. foot and 6. Cornets of horſe came to vs, and there is yet a faire ſconſe by our men, made vpon the frontiers of Bohemia againſt the enemie, and euery Souldier that workes there on, hath 3. Batſers giuen them beſides meat and drinke, when the ſconſe is ready, we ſhall ſee what will be done; ſpecially when all our men are come together, as already againe there are 7. Cornets of horſemen with whom Captaine <hi>Paap</hi> at Ambergh, being ordained to ioine; there enterpriſe is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yet ſecret, the Souldiers are put in good comfort, but haue no money, the want of that makes the time long.</p>
+            </div>
+            <div type="entry">
+               <p>There is newes out of Conſtantinople: That the great Turke, is marcht forward, and hath cauſed a great ſomme of money, to be carried with him in his Armie, in Sultanes and Aſperi, about 400 Tunnes of gold, he hath with him 300. great peeces of Ordinances, and a great Armie.</p>
+               <p>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of Polonia it is written, that the great Turkes Armie marcheth forward, and that he hath already ſent 80. peeces of great Ordinances ouer the Riuer of Do<g ref="char:EOLhyphen"/>nau; it is ſayd that he meanes not, to inuade Poland, but rather to enter into Hungaria.</p>
+               <p>By letters of the firſt of Iuly, from Roane it is certi<g ref="char:EOLhyphen"/>fied, that there is an agrement made by betweene the King and thoſe of the Religion; that the Towne of S. <hi>Iohn de Angely,</hi> ſhould yeild vnto the King, vpon con<g ref="char:EOLhyphen"/>dition that the Souldiers ſhould goe out with bagge and baggage, and matches burning, that the gouernor <hi>Subiſe,</hi> ſhould be made gouernor of Samue: <hi>Peter Armout</hi> a Ieſuite confeſſor to the King, hath abſented himſelfe from the Armie, and is gon from it.</p>
+               <p>At Stockeholm there is a rickes day to be holden, where the King of Swethland, will be preſent: what will enſue thereof, we know not.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Amſtelredam by Broer Ionſon, Corranter to his Ex<g ref="char:EOLhyphen"/>cellencie, the 20. of Iuly.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
